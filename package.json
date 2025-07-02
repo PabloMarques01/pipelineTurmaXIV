@@ -1,0 +1,20 @@
+{
+  "name": "pipelineturmaxiv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testes a correr...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloMarques01/pipelineTurmaXIV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloMarques01/pipelineTurmaXIV/issues"
+  },
+  "homepage": "https://github.com/PabloMarques01/pipelineTurmaXIV#readme"
+}
