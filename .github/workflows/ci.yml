@@ -16,6 +16,6 @@ jobs:
         run: npm test
 
       - name: Simular Deploy
-        run:  echo "Deploy para ambiente de staging realizado com sucesso"
+        run:  echo "Deploy olé olá"
 
 
