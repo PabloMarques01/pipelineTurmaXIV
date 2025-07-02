@@ -15,4 +15,7 @@ jobs:
       - name: Correr testes
         run: npm test
 
+      - name: Simular Deploy
+        run:  "Deploy para ambiente de staging realizado com sucesso"
+
 
